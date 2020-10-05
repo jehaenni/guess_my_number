@@ -2,7 +2,8 @@
 
 ## joue par un humain
 
-jeu interactif
+jeu interactif$
+
 pour lessayer, lancer:
 
 ```bash
@@ -12,6 +13,7 @@ pour lessayer, lancer:
 ## joue par lordinateru
 
 tentative de trois
+
 pour l'essayer:
 
 ```bash
