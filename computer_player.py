@@ -10,3 +10,4 @@ import random
 
 from guess_my_number import MIN, MAX
 
+#on essaie de faire mieux cette fois
