@@ -1,4 +1,4 @@
-#Guess my number
+# Guess my number
 
 ## joue par un humain
 
@@ -9,7 +9,7 @@ pour lessayer, lancer:
 ./guess_my_number.py
 ```
 
-##joue par lordinateru
+## joue par lordinateru
 
 tentative de trois
 pour l'essayer:
